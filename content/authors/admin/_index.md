@@ -36,10 +36,13 @@ education:
   courses:
     - course: PhD in Clinical Psychology
       institution: Columbia University
-      year: 2024
+      year: ""
+    - course: Predoctoral Psychology Internship
+      institution: Weill Cornell Medical Center
+      year: ""
     - course: BSc in Psychology
       institution: Tsinghua University
-      year: 2017
+      year: ""
 superuser: true
 status:
   icon: ☕️
