@@ -44,11 +44,9 @@ education:
       institution: Tsinghua University
       year: ""
 superuser: true
-status:
-  icon: ☕️
-last_name: Wu
+last_name: Chen
 highlight_name: true
-first_name: Alice
+first_name: Mark Shuquan Chen
 email: sc4173@tc.columbia.edu
 ---
 Mark Shuquan Chen  is a PhD candidate in Columbia University and currently completing his predoctoral psychology internship/residency at Weill Cornell Medical Center. Prior to his graduate study, he obtained his BSc in Psychology from Tsinghua University. His research integrates clinical, affective, and diversity science to examine how contexts predict the course of psychopathology, how they influence the function of psychological processes, and how to understand and model (in)flexibility across these contexts.
